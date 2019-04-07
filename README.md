@@ -4,4 +4,4 @@
 №4
 ![](photo.PNG)
 ![](photo2.PNG)
-1[](photo3.PNG)
+![](photo3.PNG)
